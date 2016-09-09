@@ -45,7 +45,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Grammophone.Domos.Environmnent\Grammophone.Domos.Environmnent.csproj">
+    <ProjectReference Include="..\Grammophone.Domos.Environment\Grammophone.Domos.Environment.csproj">
       <Project>{2c981885-79db-49ee-bc62-429a6164807d}</Project>
       <Name>Grammophone.Domos.Environmnent</Name>
     </ProjectReference>
