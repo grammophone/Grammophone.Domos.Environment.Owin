@@ -47,7 +47,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Grammophone.Domos.Environment\Grammophone.Domos.Environment.csproj">
       <Project>{2c981885-79db-49ee-bc62-429a6164807d}</Project>
-      <Name>Grammophone.Domos.Environmnent</Name>
+      <Name>Grammophone.Domos.Environment</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
