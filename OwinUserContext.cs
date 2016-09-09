@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Grammophone.Domos.Environmnent;
+using Microsoft.AspNet.Identity;
 
 namespace Grammophone.Domos.Environment.Owin
 {
