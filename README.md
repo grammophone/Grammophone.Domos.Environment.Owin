@@ -1,6 +1,6 @@
 # Grammophone.Domos.Environment.Owin
 
-This project implements the contract for retrieving the logged-in users from the Owin environment 
+This .NET Framework library implements the contract for retrieving the logged-in users from the Owin environment 
 for the Domos integrated session system.
 
 It is part of the 3rd generation of the Domos integrated session system which will support security, SaaS, 
